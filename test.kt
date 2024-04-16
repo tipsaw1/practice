@@ -1,3 +1,6 @@
+
 fun main() {
-  println("Hello world!")
+  println("What is your name")
+  val x = readLine()
+  println(x)
 }
